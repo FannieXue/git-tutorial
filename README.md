@@ -7,3 +7,7 @@ and and a newline
 
     -fix-b
 
+
+feature-c
+
+
